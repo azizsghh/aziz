@@ -1,6 +1,7 @@
-	
+
 
 		body>h1 {
+			font-size: 27px ; 
 			text-align: center ; 
 			font-family: cursive ;
 		}
@@ -10,26 +11,24 @@
 			text-align: center;
 			background-color: #AFAA99 ;
 			border: solid  black ;
-			border-radius: 10px;
-			height: 200px ;
+			height: 180px ;
 			position: relative; 
 		}
 		section>h1 
 		{	position: absolute;
+			font-size: 19px ;
 			top: 0 ; 
 			right: 0 ; 
 			text-align: right ; 
 			border: solid #939684 1px;
-			margin-right: 6px ; 
+			margin:0;
 			font-family: fantasy;
 			margin-left:0; ;
 			padding-right: 0 ; 
-			border-radius: 10px;
-			
-		}
+			}
 		section>p 
 		{
-			
+			font-size : 15px ; 
 			font-family: cursive ;
 			margin-right: auto ; 
 			margin-left: auto ;  
